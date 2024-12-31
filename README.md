@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm **Ahmed hajji** — a **UI/UX Designer** and *
 
 ### 📫 Let’s Connect  
 
-- Portfolio: [](#http://www.ahmedhajji.com/)  
+- Portfolio: [www.ahmedhajji.com/](#http://www.ahmedhajji.com/)  
 
 
 Let’s collaborate and create something amazing together! 🚀  
