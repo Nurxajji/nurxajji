@@ -14,3 +14,8 @@ Welcome to my GitHub profile! I'm **Ahmed hajji** — a **UI/UX Designer** and *
 - **Focus Areas:** Responsive design, branding, web applications  
 
 Let’s collaborate and create something amazing together! 🚀  
+
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
