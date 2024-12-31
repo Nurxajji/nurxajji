@@ -13,9 +13,4 @@ Welcome to my GitHub profile! I'm **Ahmed hajji** — a **UI/UX Designer** and *
 - **Development:** HTML, CSS, JavaScript, React.js  
 - **Focus Areas:** Responsive design, branding, web applications  
 
-### 📫 Let’s Connect  
-
-- Portfolio: [www.ahmedhajji.com/](#http://www.ahmedhajji.com/)  
-
-
 Let’s collaborate and create something amazing together! 🚀  
